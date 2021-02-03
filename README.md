@@ -1,2 +1,2 @@
-# christinetrinh.github.io
+# portfolio
 Personal Portfolio for Christine Trinh
